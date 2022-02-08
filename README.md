@@ -7,7 +7,7 @@ by [AgustinCarcelen](https://github.com/AgustinCarcelen) & [Sergi Guasch](https:
 
 ## Table of content
 
-- [Pre requirements](https://github.com/AgustinCarcelen/getafix/blob/main/README.md#re-requirements)
+- [Pre requirements](https://github.com/AgustinCarcelen/getafix/blob/main/README.md#pre-requirements)
 - [Project Brief](https://github.com/AgustinCarcelen/getafix/blob/main/README.md#project-brief)
 - [Data](https://github.com/AgustinCarcelen/getafix/blob/main/README.md#data)
 - [Process & Tools](https://github.com/AgustinCarcelen/getafix/blob/main/README.md#process--tools)
